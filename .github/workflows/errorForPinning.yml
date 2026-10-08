@@ -1,0 +1,19 @@
+name: Test pin actions using action commit map
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  upload-coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v5
+        
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v5.4.3
+
+      - name: testing 
+        uses: vamshi/hello@4.9
+        

@@ -1,0 +1,14 @@
+{
+  "skills": {
+    "all-flags": {
+      "source": "github",
+      "slug": "example-org/agent-skills",
+      "sourceUrl": "https://github.com/example-org/agent-skills",
+      "ref": "v1.4.2",
+      "skillPath": "all-flags",
+      "skillFolderHash": "abc123def456",
+      "installedAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-02-01T00:00:00Z"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+../../../.agents/skills/all-flags/SKILL.md
